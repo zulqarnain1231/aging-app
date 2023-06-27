@@ -1,0 +1,187 @@
+{
+  "spillRisk": [
+    { "label": "7 Days", "value": "7 Days" },
+    { "label": "5 Days", "value": "5 Days" },
+    { "label": "3 Days", "value": "3 Days" }
+  ],
+  "process": [
+    { "label": "Cust Lam", "value": "Cust Lam" },
+    { "label": "Recover", "value": "Recover" },
+    { "label": "Sanders", "value": "Sanders" },
+    { "label": "X Grain/Cts", "value": "X Grain/Cts" },
+    { "label": "8N80", "value": "8N80" },
+    { "label": "Aborite/Laminart", "value": "Aborite/Laminart" },
+    { "label": "Others", "value": "Others" }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "pt": 12,
+      "bo": 21,
+      "line": "lorem",
+      "qty": 34,
+      "ord": "22-3-23",
+      "patt": 43,
+      "oraPatt": 22,
+      "type": "Clothing",
+      "fin": 22,
+      "wid": 40,
+      "leng": 33
+    }
+  ],
+  "shipments": [
+    {
+      "curtd": "Lorem",
+      "curtrk": 123456,
+      "shipTo": "John Doe",
+      "arb": 789,
+      "pt": 456,
+      "status": "Pending",
+      "comment": "Lorem ipsum dolor sit amet",
+      "bo": 789,
+      "line": 123,
+      "qty": 456,
+      "ordPatt": 789,
+      "oraPatt": 456,
+      "type": "Clothing",
+      "fin": 789,
+      "wid": 456,
+      "leng": 123
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    },
+    {
+      "orderId": "#123w12",
+      "productName": "Shirt",
+      "price": 23,
+      "date": "22-3-23",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem consequatur quidem deserunt cum! Dolore quod corrupti ut inventore atque illum. Eaque suscipit voluptatum atque, illo modi minus veritatis ut? Quos?"
+    }
+  ]
+}
